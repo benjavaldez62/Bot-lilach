@@ -950,6 +950,22 @@ message.channel.send(embed);
 
   }if(message.content.startsWith(prefix + "dg")) {
     message.channel.send("http://www.mediafire.com/file/bdi5ulb794burg1/DuckkkGamemadu.byVeroxPiViGames.rar/file")
+    
+  }if(message.content.startsWith(prefix + "off")) {
+    
+El metodo destroy():
+cierra la sesión y termina la conexión del bot a Discord, en otras palabras destruye la conexión.
+
+
+
+message.channel.send("`Desconectado..`").then(() => {
+    client.destroy().then(() => {
+        process.exit();
+    });
+});
+
+
+NOTA: El metodo solo debe ser usada por el creador de la App/Bot.
 
   }if(message.content.startsWith(prefix + "help")) {
     message.react("✅")
