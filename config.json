@@ -1,7 +1,5 @@
 {
-    "token":"NTMwMzAxNjAyOTAxNTI0NTAz.Dw_KvA.rbJUTRA1a6f6PNpPLncs-4bPXNw",
-    "prefix":"h!",
-    "file_url":"blokardo"
-    
-    }
-                                    
+    "prefix": "h!",
+    "file_url": "blokardo",
+    "embed_color": "0x66b3ff"
+}
