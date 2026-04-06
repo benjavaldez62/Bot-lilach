@@ -1,0 +1,52 @@
+// Mapa para imagenes CON prefix
+const pImagesMap = new Map();
+
+pImagesMap.set("hart", "https://cdn.discordapp.com/attachments/439189859542892546/551692303321006115/geiii.png");
+pImagesMap.set("felicidad", "https://cdn.discordapp.com/attachments/439189859542892546/554208409180962817/geeee.png");
+pImagesMap.set("lame", "https://cdn.discordapp.com/attachments/439189859542892546/554208584381104128/lcik.png");
+pImagesMap.set("nepe", "https://image.prntscr.com/image/BRG4QCNjQt2g2VAro5Aeww.jpg");
+pImagesMap.set("kyt", "https://image.prntscr.com/image/GFpaYBSfQiaF357bZWD_wQ.png");
+pImagesMap.set("snou", "https://image.prntscr.com/image/BoERi9ofRv6hZW-vG_pRIQ.png");
+pImagesMap.set("asco", "https://image.prntscr.com/image/IAADX7jXTSaGcndMjrdd9w.jpg");
+pImagesMap.set("calma", "https://image.prntscr.com/image/K97G0TZzQme-uJGkAc4kBg.png");
+pImagesMap.set("calmense", "https://image.prntscr.com/image/vhWNsQ5pSGWu2RjTidKzkQ.png");
+pImagesMap.set("frente", "https://image.prntscr.com/image/7ry9FjDrRc_AYt3q6YZFWA.png");
+pImagesMap.set("hielo", "https://image.prntscr.com/image/p0XFbN5yRc225jKpEqwhMw.png");
+pImagesMap.set("saludo", "https://image.prntscr.com/image/aeBqb_GSSduK8PhTUP4LFg.png");
+pImagesMap.set("lewd", "https://cdn.discordapp.com/attachments/469424478489935872/532982242398699540/JPEG_20180609_183559.png");
+pImagesMap.set("arrows", "https://image.prntscr.com/image/vnVtjC0_Ti6i_ysrk8kWlA.png");
+pImagesMap.set("riko", "https://image.prntscr.com/image/nI_GcJd_QTGw-_59fqDGsA.png");
+pImagesMap.set("llaba", "https://image.prntscr.com/image/ibN28fxXQ-etHkNEpzBzRA.png");
+pImagesMap.set("marrano", "https://image.prntscr.com/image/PNjUXAnVSDaX64IMv7_ZAQ.png");
+pImagesMap.set("getando", "https://image.prntscr.com/image/yaWccqW6R8q2uPIn0ptOTQ.png");
+pImagesMap.set("fc", "https://image.prntscr.com/image/UBK1Oi28QNuFtkCk0vC4PQ.png");
+pImagesMap.set("globo", "https://image.prntscr.com/image/8UlSOMGhQMev3EFtuzDpmw.png");
+pImagesMap.set("dimons", "https://image.prntscr.com/image/m9UYk3peSs6V-clEKnDayw.png");
+pImagesMap.set("quiensoy", "https://image.prntscr.com/image/0aRqUS81ShGMqN7Akfr4zA.png");
+pImagesMap.set("muntaste", "https://image.prntscr.com/image/8gqkbnjHSjejKzXRjpvc2w.png");
+pImagesMap.set("gie", "https://image.prntscr.com/image/gneiSoJhQnqQiQsyuTgj7w.png");
+pImagesMap.set("fortnite", "https://image.prntscr.com/image/FEPwtlVLT2K3ame9uLtaRQ.gif");
+pImagesMap.set("joto", "https://image.prntscr.com/image/Gws8GY9_QRSHwW-DXnuhnw.png");
+pImagesMap.set("bucle", "https://image.prntscr.com/image/Mubal0h5TeGPbhZfGZ3-lQ.png");
+pImagesMap.set("tellme", "https://cdn.discordapp.com/attachments/439189859542892546/554213464831164426/geeeeeeee.png");
+pImagesMap.set("beibi", "https://cdn.discordapp.com/attachments/439189859542892546/554213903249440768/geeeee.png");
+pImagesMap.set("hot", "https://cdn.discordapp.com/attachments/439189859542892546/554214519174332449/2019-01-22_2.png");
+pImagesMap.set("pedoz", "https://cdn.discordapp.com/attachments/439189859542892546/554215118943158298/mic.png");
+pImagesMap.set("ojear", "https://image.prntscr.com/image/JS6sff7CTg65PT6dEFYOSQ.png");
+pImagesMap.set("wapa", "https://cdn.discordapp.com/attachments/439189859542892546/554215533910949888/000000001.png");
+pImagesMap.set("ajax", "https://image.prntscr.com/image/I6KpcvnkS9WQDJ21S8QeFg.png");
+pImagesMap.set("perro", "https://image.prntscr.com/image/_g0sHaB1RDWrFoV1oyuM9w.png");
+pImagesMap.set("pato", "https://image.prntscr.com/image/ienXOKE-SHaG7wM0olzUcQ.png");
+pImagesMap.set("rock", "https://image.prntscr.com/image/MHVg2DwYR4WaiMiQkIbifQ.png");
+pImagesMap.set("triggered", "https://media1.tenor.com/images/9543655e42222c2ba2eea8da45e328bc/tenor.gif?itemid=5943310");
+pImagesMap.set("rick", "https://media.discordapp.net/attachments/508525841400201224/551117608418803712/536633433728876565.gif");
+pImagesMap.set("mexicano", "https://image.prntscr.com/image/TlyM1aP3QJ_BovBPdSzDsw.png");
+pImagesMap.set("brazzers", "https://image.prntscr.com/image/d7xM3hrDSkKHMM_veQRVwg.png");
+pImagesMap.set("arabe", "https://image.prntscr.com/image/r6u9QdY_QMGA2ll6jqNReQ.jpg");
+pImagesMap.set("pito", "https://image.prntscr.com/image/emUttkPCRfGpwqzTJulvRQ.jpg");
+pImagesMap.set("buzz", "https://image.prntscr.com/image/ubx0AW4gS1urZrWreWj8ZQ.jpg");
+pImagesMap.set("kym", "https://image.prntscr.com/image/0zuB3_oVT7aX3YotJm8pGA.jpg");
+pImagesMap.set("hola", "https://www.gastronomiavasca.net/uploads/image/file/3407/pera.jpg");
+
+
+module.exports = pImagesMap;

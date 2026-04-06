@@ -44,10 +44,6 @@ rptasMap.set("gracias", "De nada onii-chan (´・◡・｀)");
 rptasMap.set("baka", "No lolis 4 u");
 rptasMap.set("bones_irl2", "Las clases en");
 rptasMap.set("www", "ｗｗｗｗｗｗｗｗｗｗｗ");
-rptasMap.set("", "");
-rptasMap.set("", "");
-rptasMap.set("", "");
-
 
 
 module.exports = rptasMap;
